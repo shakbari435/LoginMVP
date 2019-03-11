@@ -1,0 +1,16 @@
+<resources>
+
+
+    <string name="app_name">LoginMVP</string>
+
+
+    <string name="username">نام کاربری</string>
+    <string name="password">رمز عبور</string>
+
+    <string name="username_error">لطفا نام کاربری را وارد نمایید</string>
+    <string name="password_error">لطفا رمز عبور را وارد نمایید</string>
+
+    <string name="faild">نام کاربری یا رمز عبور اشتباه است</string>
+    <string name="accept">شما با موفقیت وارد شدید</string>
+
+</resources>
